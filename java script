@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>
+            Q.4
+        </title>
+        <style>
+            h1{
+                color:red;
+            }
+            body{
+                opacity: 0.5;
+            }
+            .cat1{
+               
+                border-color: red;
+                border-radius: 20px;
+                width: 1400px;
+                height: 230;
+                border: 20px solid rgb(243, 25, 25);
+                padding: 4px;
+                margin: 10px;
+                background-color: rgb(241, 240, 238);
+            }
+            .cat2{
+               
+               border-color:green;
+               border-radius: 20px;
+               width: 1400px;
+               height: 230;
+               border: 20px solid rgb(19, 241, 38);
+               padding: 4px;
+               margin: 10px;
+               background-color: rgb(241, 240, 238);
+           }
+        </style>
+    </head>
+    <body>
+
+    <h1>TOM</h1>
+<div class="cat1">
+    <img src="cat1.jpg" alt="img">
+    </div>
+    <h1>TIM</h1><br>
+    <div class="cat2">
+   
+    <img src="cat2.jpg" alt="img"></div>
+    </body>
+    
+
+
+    </body>
+    </html>
+    
